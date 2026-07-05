@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🎮 Steam Web Clone
+<p align="center">
+    <img src="./assets/images/steam-title.svg" width="700">
+</p>
 
 ### A modern Steam-inspired gaming storefront built using **HTML**, **CSS**, and **JavaScript**
 
