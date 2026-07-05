@@ -98,7 +98,8 @@ steam-web-clone/
 │
 ├── assets/
 │   └── images/
-│        └── preview(1).png
+│        ├── preview(1).png
+│        └── steam-title.svg
 │
 ├── README.md
 │
