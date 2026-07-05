@@ -46,8 +46,6 @@ It was developed to improve my front-end development skills while practicing res
   <img src="assets/images/preview(1).png" alt="Steam Web Clone Preview" width="100%">
 </p>
 
-> Save the screenshot above as **assets/images/preview.png**
-
 ---
 
 # ✨ Features
