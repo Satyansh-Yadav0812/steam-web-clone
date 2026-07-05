@@ -1,0 +1,27 @@
+<svg width="800" height="90" viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.title{
+    font-family:'Segoe UI',Arial,sans-serif;
+    font-size:48px;
+    font-weight:700;
+    animation: steamColor 4s infinite;
+}
+
+@keyframes steamColor{
+    0%{fill:#000000;}
+    33%{fill:#1B75D0;}
+    66%{fill:#FFFFFF;}
+    100%{fill:#000000;}
+}
+</style>
+
+<text
+x="50%"
+y="58%"
+text-anchor="middle"
+class="title">
+🎮 Steam Web Clone
+</text>
+
+</svg>
