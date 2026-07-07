@@ -184,6 +184,4 @@ Simply open **index.html** in your preferred web browser.
 Made with ❤️ by **Satyansh Yadav**
 
 </div>
-
-## Minor Update
-- Improved README formatting.
+small changes
