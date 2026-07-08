@@ -184,7 +184,3 @@ Simply open **index.html** in your preferred web browser.
 Made with ❤️ by **Satyansh Yadav**
 
 </div>
-
-minor changes
-ahead
-<!--Pair Extraordinate Test -->
